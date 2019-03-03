@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.subtitle %}
+	    <!-- <hr class="small"> -->
+	    <span class="page-subtitle">{{ page.subtitle }}</span>
+      <hr/>
+	{% endif %}
+
+  {{ content }}
+</div>
