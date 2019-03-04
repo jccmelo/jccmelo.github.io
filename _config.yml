@@ -2,11 +2,15 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# Google Analytics
+google_analytics: UA-42794425-3
+
 # Setup
 title:            Jean Melo
 tagline:          Website
 description:      "phd in cs & softw dev"
-url:              https://github.com/jccmelo
+url:              https://jccmelo.com   # with the https protocol
+enforce_ssl:      jccmelo.com   # without any protocol
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
