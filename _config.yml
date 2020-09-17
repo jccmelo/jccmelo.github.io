@@ -8,7 +8,7 @@ google_analytics: UA-42794425-3
 # Setup
 title:            Jean Melo
 tagline:          Website
-description:      "phd in cs & softw dev"
+description:      "phd in cs | softw engineer"
 url:              https://jccmelo.com   # with the https protocol
 enforce_ssl:      jccmelo.com   # without any protocol
 baseurl:          /
